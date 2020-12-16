@@ -1,0 +1,1 @@
+git@github.com:AlexFoXXX/training.git
