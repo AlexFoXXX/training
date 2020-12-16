@@ -12,5 +12,8 @@ git log
 git pull   //upgate from git on local
 
 
+git gui&
+
+
 
 
