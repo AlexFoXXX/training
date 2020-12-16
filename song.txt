@@ -1,2 +1,16 @@
 git@github.com:AlexFoXXX/training.git
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+// add file//////////////
+git status
+git add song.txt
+git commit -m "add first line"
+git push
+
+git log
+
+git pull   //upgate from git on local
+
+
+
+
