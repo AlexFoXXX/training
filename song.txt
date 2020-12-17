@@ -39,5 +39,13 @@ gitignore
 #file.log
 !error.log
 /TODO
-
 build/
+
+
+git checkout -b master
+
+git merge feature  //вливает faeture в main
+
+
+
+
