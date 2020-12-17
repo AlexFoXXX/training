@@ -30,3 +30,5 @@ git reset --mixed HEAD^^  //in unstaged
 
 git reset --hard HEAD^^  //delete
 
+git revert 5d8ad1 //заменяет коммит 
+
