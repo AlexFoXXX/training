@@ -1,0 +1,7 @@
+#*.log
+#file.log
+!error.log
+
+/TODO
+
+build/
