@@ -16,6 +16,10 @@ git gui&
 
 gitk&
 
+git checkout .  //delete all modif line
+
+git clean -xdf    //delete all new files
+
 
 
 
