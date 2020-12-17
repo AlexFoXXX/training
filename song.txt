@@ -24,5 +24,9 @@ git reset song.txt
 
 git reset HEAD^^ (HEAD~2) //backup 2 commits
 
+git reset --soft HEAD^^  //in index
 
+git reset --mixed HEAD^^  //in unstaged
+
+git reset --hard HEAD^^  //delete
 
