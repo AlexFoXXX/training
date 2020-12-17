@@ -1,7 +1,13 @@
-#*.log
+*.log
+*.db
+/target
+/bin
+
+
+
 #file.log
-!error.log
+#!error.log
 
-/TODO
+#/TODO
 
-build/
+#build/
