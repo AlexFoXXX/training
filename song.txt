@@ -32,3 +32,12 @@ git reset --hard HEAD^^  //delete
 
 git revert 5d8ad1 //заменяет коммит 
 
+
+
+gitignore
+#*.log
+#file.log
+!error.log
+/TODO
+
+build/
