@@ -30,3 +30,6 @@ git reset --mixed HEAD^^  //in unstaged
 
 git reset --hard HEAD^^  //delete
 
+
+123132131231231313132
+
