@@ -1,4 +1,4 @@
-git@github.com:AlexFoXXX/training.git
+﻿git@github.com:AlexFoXXX/training.git
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 // add file//////////////
@@ -55,3 +55,9 @@ git merge feature  //вливает faeture в main
 
 
 >>>>>>> 59bda3ecc0cef8f80addf00f0d0860ae88f0851e
+
+
+git stash
+
+///////////////////////////
+1
