@@ -48,3 +48,4 @@ git checkout -b feature
 git checkout master
 
 feature commit1
+feature commit2
