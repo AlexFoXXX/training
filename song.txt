@@ -44,3 +44,5 @@ build/
 
 
 git checkout -b feature
+
+git checkout master
