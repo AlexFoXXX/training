@@ -22,5 +22,7 @@ git clean -xdf    //delete all new files
 
 git reset song.txt
 
+git reset HEAD^^ (HEAD~2) //backup 2 commits
+
 
 
