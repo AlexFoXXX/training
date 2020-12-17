@@ -1,4 +1,4 @@
-git@github.com:AlexFoXXX/training.git
+﻿git@github.com:AlexFoXXX/training.git
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 // add file//////////////
@@ -46,3 +46,5 @@ build/
 git checkout -b feature
 
 git checkout master
+
+feature commit1
