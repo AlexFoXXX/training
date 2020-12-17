@@ -46,6 +46,7 @@ build/
 git checkout -b feature
 
 git checkout master
+<<<<<<< HEAD
 =======
 git checkout -b master
 
@@ -62,3 +63,8 @@ git stash
 ///////////////////////////
 1
 2
+
+
+feature commit1
+feature commit2
+
