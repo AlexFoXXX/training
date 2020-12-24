@@ -6,6 +6,8 @@ $ git config --global user.email "Lisickf@mail.ru"
 git clone git@github.com:AlexFoXXX/training.git
 
 sh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYXdCZUXbl3+JYhozYFNXzvUkHNN9sRFpaLk6fbN$
+/home/pi/Downloads
+
 
 
 
